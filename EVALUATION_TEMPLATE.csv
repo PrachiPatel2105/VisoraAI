@@ -1,0 +1,2 @@
+case_id,input_description,ground_truth,prediction,correct,latency_ms,agent_action,notes
+CASE-001,,,,,,,
